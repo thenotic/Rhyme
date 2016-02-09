@@ -369,22 +369,6 @@ end
 end
 
 
-a = Rhyme.new
-a.lyrics = "Good grief, I been reaping what I sowed
-Nigga, I ain't been outside in a minute
-I been living what I wrote
-And all I see is snakes in the eyes of these niggas
-Momma taught me how to read 'em when I look
-Miss me at the precinct getting booked
-Fishy niggas stick to eating off of hooks
-Say you eating, but we see you getting cooked, nigga" #Earl Sweatshirt - Grief
-a.find_rhymes
-
-a.two_syllable_rymes
-
-
-
-
 
 
 
